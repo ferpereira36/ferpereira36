@@ -1,0 +1,3 @@
+- 👋 Salve, meu nome é Fernando
+- 📘 Atualmente estou estudando Python
+- 🎒 Graduando Engenharia da Computação
