@@ -20,7 +20,7 @@
   <B><I>SOBRE MIM:</B></I>
 </p>
 
-<p><pre>
-  Tenho 20 anos e faço graduação na UNICEP - Centro Universitário Central Paulista, sou matriculado no curso de Engenharia da computação e nesse semestre (jul/22 - dez/22) estarei no 6º Período.
- Comecei a estudar programação por conta própria tem um tempo, mas sempre mudava entre Back e Front. No presente, estou focando no Back-End.
-</pre></p>
+<p>
+&nbsp Tenho 20 anos e faço graduação na UNICEP - Centro Universitário Central Paulista, sou matriculado no curso de Engenharia da computação e nesse semestre (jul/22 - dez/22) estarei no 6º Período.<br>
+&nbsp Comecei a estudar programação por conta própria tem um tempo, mas sempre mudava entre Back e Front. No presente, estou focando no Back-End.
+</p>
