@@ -15,7 +15,6 @@
 ![Django](https://img.shields.io/badge/-django-0D1117?style=for-the-badge&logo=django&logoColor=green&labelColor=0D1117)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-mongodb-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117)&nbsp;
 
-
 <p align="center">
   <B><I>SOBRE MIM:</B></I>
 </p>
@@ -24,3 +23,9 @@
 &nbsp Tenho 20 anos e faço graduação na UNICEP - Centro Universitário Central Paulista, sou matriculado no curso de Engenharia da computação e nesse semestre (jul/22 - dez/22), estarei no 6º Período.<br>
 &nbsp Comecei a estudar programação por conta própria tem um tempo, mas sempre mudava entre Back e Front. No presente, estou focando no Back-End.
 </p>
+
+<br><br>
+
+<div align="center">  
+<a href="www.beacons.ai/ferpereira" target="_blank"><img src="https://img.shields.io/badge/-MAIS_INFORMAÇÕES-%23E4405F?style=for-the-badge&logo=beacons&logoColor=white"</a>
+</div>
