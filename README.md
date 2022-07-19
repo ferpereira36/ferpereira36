@@ -29,3 +29,5 @@
 <div align="center">  
 <a href="https://www.beacons.ai/ferpereira" target="_blank"><img src="https://img.shields.io/badge/-MAIS_INFORMAÇÕES-%23E4405F?style=for-the-badge&logo=beacons&logoColor=white"</a>
 </div>
+  
+<br><br>
