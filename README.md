@@ -1,2 +1,2 @@
-- 👋 "Hello world", meu nome é Fernando Pereira e sou estudante em programação
+- 👋 "Hello world", meu nome é Fernando Pereira e estou estudando programação
 - 📚 Graduando Engenharia da Computação
