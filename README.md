@@ -14,3 +14,13 @@
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 ![Django](https://img.shields.io/badge/-django-0D1117?style=for-the-badge&logo=django&logoColor=green&labelColor=0D1117)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-mongodb-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117)&nbsp;
+
+
+<p align="center">
+  <B><I>SOBRE MIM:</B></I>
+</p>
+
+<p><pre>
+  Tenho 20 anos e faço graduação na UNICEP - Centro Universitário Central Paulista, sou matriculado no curso de Engenharia da computação e nesse semestre (jul/22 - dez/22) estarei no 6º Período.
+ Comecei a estudar programação por conta própria tem um tempo, mas sempre mudava entre Back e Front. No presente, estou focando no Back-End.
+</pre></p>
