@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&center=true&vCenter=true&width=500&lines=Hello+world)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&center=false&vCenter=false&width=500&lines=Hello+world)](https://git.io/typing-svg)
 
 ### Estudando:
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&logoColor=orange&labelColor=0D1117)&nbsp;
