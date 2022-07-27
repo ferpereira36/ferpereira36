@@ -34,6 +34,14 @@
 
 <div align="center">  
 <a href="https://www.beacons.ai/ferpereira" target="_blank"><img src="https://img.shields.io/badge/-MAIS_INFORMAÇÕES-%23E4405F?style=for-the-badge&logo=beacons&logoColor=white"</a>
+
+<br><br>
+
+  <div style="display: inline_block"><br>
+  <img align="center" alt="HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="PYTHON" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  
 </div>
   
 <br>
