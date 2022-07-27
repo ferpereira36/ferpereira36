@@ -26,8 +26,8 @@
 </p>
 
 <p>
-&nbsp  Tenho 20 anos e faço graduação na UNICEP - Centro Universitário Central Paulista, sou matriculado no curso de Engenharia da computação e estou no 3º ano.<br>
- Comecei a estudar programação por conta própria tem um tempo, mas sempre alternei entre Back e Front. Mas, no presente, estou focado no Back-End para alcançar um espaço na área.
+&nbsp Tenho 20 anos e faço graduação na UNICEP - Centro Universitário Central Paulista, sou matriculado no curso de Engenharia da computação e estou no 3º ano.<br>
+&nbsp Comecei a estudar programação por conta própria tem um tempo, mas sempre alternei entre Back e Front. Mas, no presente, estou focado no Back-End para alcançar um espaço na área.
 </p>
 
 <br><br>
