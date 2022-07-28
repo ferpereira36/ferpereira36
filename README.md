@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&center=false&vCenter=false&width=500&lines=Hello+World)](https://git.io/typing-svg)
 
-### Estudando Back-End com:
+### Estudando Back-End em:
 ![Python](https://img.shields.io/badge/-PYTHON-0D1117?style=for-the-badge&logo=python&logoColor=yellow&labelColor=0D1117)&nbsp;
 
 <br>
