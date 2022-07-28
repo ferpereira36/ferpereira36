@@ -37,7 +37,7 @@
 
 <p>
 &nbsp Tenho 20 anos e faço graduação na UNICEP - Centro Universitário Central Paulista, sou matriculado no curso de Engenharia da Computação e estou no 3º ano.<br>
-&nbsp Comecei a estudar programação por conta própria tem um tempo, mas sempre alternei entre Back e Front. Mas, no presente, estou focado no Back-End com Python para alcançar um espaço na área.
+&nbsp Comecei a estudar programação por conta própria tem um tempo, mas sempre alternei entre Back e Front. Mas, no presente, estou focado no Back-End com Python
 </p>
 
 <br><br>
