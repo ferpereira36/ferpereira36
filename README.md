@@ -19,9 +19,15 @@
 <br>
 
 ### Próximos Estudos:
+![AWS](https://img.shields.io/badge/-aws-0D1117?style=for-the-badge&logo=amazonaws&logoColor=yellow&labelColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 ![Django](https://img.shields.io/badge/-django-0D1117?style=for-the-badge&logo=django&logoColor=green&labelColor=0D1117)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-mongodb-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117)&nbsp;
+![Flask](https://img.shields.io/badge/-flask-0D1117?style=for-the-badge&logo=flask&logoColor=grey&labelColor=0D1117)&nbsp;
+<div>&nbsp<img src="https://img.shields.io/badge/-Pyramid-yellow">&nbsp
+<img src="https://img.shields.io/badge/-CherryPy-red">&nbsp
+<img src="https://img.shields.io/badge/-Web2py-blue">
+</div>
 
 <br><br>
 
