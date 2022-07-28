@@ -1,7 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&center=false&vCenter=false&width=500&lines=Hello+World)](https://git.io/typing-svg)
 
-### Estudando:
+### Estudando Back-End com:
 ![Python](https://img.shields.io/badge/-PYTHON-0D1117?style=for-the-badge&logo=python&logoColor=yellow&labelColor=0D1117)&nbsp;
+
+<br>
+
+### Básico em Front-End com:
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&logoColor=orange&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
@@ -33,7 +37,7 @@
 <br><br>
 
 <div align="center">  
-<a href="https://www.beacons.ai/ferpereira" target="_blank"><img src="https://img.shields.io/badge/-MAIS_INFORMAÇÕES-%23E4405F?style=for-the-badge&logo=beacons&logoColor=white"</a>
+<a href="https://www.beacons.ai/ferpereira" target="_blank"><img src="https://img.shields.io/badge/-MAIS_INFORMAÇÕES/CONTATOS-%23E4405F?style=for-the-badge&logo=beacons&logoColor=white"</a>
 
 <br><br>
 
