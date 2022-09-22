@@ -57,7 +57,7 @@
 <div align="center">
   <h2><I><B>Portfolio v2.0 (Em andamento...) &nbsp </B></I></h2>
   <h3><I>Feito em Interface Gráfica com Python/Tkinter &nbsp </I></h3>
-  <img src="https://user-images.githubusercontent.com/103957365/190253902-555de7a8-f4f4-474b-9eea-9a28ecfb05b0.PNG">
+  <img src="https://user-images.githubusercontent.com/103957365/191834923-2381a60c-8586-4234-8416-5e7047eb11d8.png">
 </div>
 
 <br><br>
