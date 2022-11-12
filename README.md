@@ -11,7 +11,7 @@
 <br><br>
 
 <div align="center">
-  <h3><B><I>SOBRE MIM:</B></I></h3>
+  <h3><B><I>SOBRE:</B></I></h3>
 </div>
 
 <p>
