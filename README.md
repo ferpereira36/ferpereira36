@@ -17,7 +17,7 @@
 
 - 💬 Dúvida sobre **Faculdade ou Python**?
 
-- ⚡ Fato curioso **Desenvolvendo softwares contábeis**
+- ⚡ Fato curioso: **Desenvolvendo softwares contábeis**
 
 <h3 align="left">Mais Informações:</h3>
 <p align="left">
