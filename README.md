@@ -19,7 +19,7 @@
 
 - ⚡ Fato curioso: **Desenvolvendo softwares contábeis**
 
-<h3 align="left">Mais Informações:</h3>
+<h3 align="left"><B><I>Mais Informações:</B></I></h3>
 <p align="left">
 <a href="https://www.beacons.ai/ferpereira" target="_blank"><img src="https://img.shields.io/badge/-CONTATOS-%23E4405F?style=for-the-badge&logo=beacons&logoColor=white" alt="ferpereira" height="25" width="75" /></a>
 <br><br>
