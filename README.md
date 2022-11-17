@@ -23,7 +23,7 @@
 <p align="left">
 <a href="https://www.beacons.ai/ferpereira" target="_blank"><img src="https://img.shields.io/badge/-CONTATOS-%23E4405F?style=for-the-badge&logo=beacons&logoColor=white" alt="ferpereira" height="25" width="75" /></a>
 <br><br>
-<h3 align="left"><B><I>Linguagens e Ferramentas:</B></I></h3>
+<h3 align="center"><B><I>Linguagens e Ferramentas:</B></I></h3>
 
 <div align="center" style="display: inline_block"><br>
   
