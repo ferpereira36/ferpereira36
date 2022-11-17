@@ -13,9 +13,9 @@
 
 - 🌱 Atualmente estou estudando **Python**
 
-- 💬 Me perguntar sobre **Faculdade ou Python**?
-
 - 📫 Meu e-mail é **fernando.luporini@hotmail.com**
+
+- 💬 Dúvida sobre **Faculdade ou Python**?
 
 - ⚡ Fato curioso **Desenvolvendo softwares contábeis**
 
