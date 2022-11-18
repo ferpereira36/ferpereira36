@@ -1,4 +1,4 @@
-![banner](https://user-images.githubusercontent.com/103957365/202531686-41186329-c0f7-4095-af4f-baea3848218c.png)
+![BannerGif-Trim](https://user-images.githubusercontent.com/103957365/202779603-01fbb723-de95-4683-b2ab-439f332a2a16.gif)
 <div align="center">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&center=true&vCenter=false&width=500&lines=Hello+World)](https://git.io/typing-svg)  
