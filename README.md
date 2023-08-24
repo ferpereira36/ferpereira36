@@ -12,7 +12,7 @@
 <br><br>
 - 🔭 Trabalho em **Escritório de Contabilidade**
 
-- 🌱 Atualmente estou estudando **Python**
+- 🌱 Atualmente estou estudando **Python/JS/HTML/CSS**
 
 - 📫 Meu e-mail é **fernando.luporini@hotmail.com**
 
