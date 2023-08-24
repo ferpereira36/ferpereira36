@@ -18,7 +18,7 @@
 
 - 💬 Dúvida sobre **Faculdade ou Python**?
 
-- ⚡ Fato curioso: **Trabalhando e descobrindo o empreendedorismo**
+- ⚡ Fato curioso: **Trabalhando e Descobrindo o Empreendedorismo**
 
 <h3 align="left"><B><I>Mais Informações:</B></I></h3>
 <p align="left">
