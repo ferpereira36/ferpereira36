@@ -5,26 +5,28 @@
 
 </div>
 
-<h1 align="center">Eai 👋,</h1>
-<h3 align="center">meu nome é Fernando, sou estudante de Programação e estou me graduando em Engenharia da Computação.</h3>
+# Olá 👋,
+meu nome é Fernando. Sou estudante de Programação e estou me graduando em Engenharia da Computação. Sou apaixonado por tecnologia e sou um entusiasta do desenvolvimento web. Adoro transformar ideias em sites e aplicativos funcionais, bem como desenvolver soluções para meu ambiente de trabalho em contabilidade. Acredito que a tecnologia é a chave para moldar o futuro, e estou comprometido em estar à frente nessa constante evolução.
 <img align="right" alt="Coding" width="300" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
 
 <br><br>
-- 🔭 Trabalho em **Escritório de Contabilidade** e na **Nanofy Tecnologia**
+- 💎 CEO da **Nanofy Tecnologia**
+
+- 🔭 Trabalho em **Escritório de Contabilidade** e na **Nanofy**
 
 - 📚 Estudando **Python/JavaSript/React/TypeScript/TailWindCSS/Next.js**
-
-- 📫 CEO da **Nanofy Tecnologia**
 
 - 💬 Alguma dúvida sobre **Tecnologia**?
 
 - ⚡ Conheça um pouco da minha empresa em: **nanofy.com.br**
+<br>
 
-<h3 align="left"><B><I>Mais Informações:</B></I></h3>
+# 📑 Mais Informações
 <p align="left">
 <a href="https://www.beacons.ai/ferpereira" target="_blank"><img src="https://img.shields.io/badge/-CONTATOS-%23E4405F?style=for-the-badge&logo=beacons&logoColor=white" alt="ferpereira" height="25" width="75" /></a>
 <br><br>
-<h3 align="center"><B><I>Linguagens e Ferramentas:</B></I></h3>
+
+# 🛠 Linguagens e Ferramentas:
 
 <div align="center" style="display: inline_block"><br>
   
