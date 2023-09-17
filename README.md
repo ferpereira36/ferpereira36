@@ -12,11 +12,11 @@
 <br><br>
 - 🔭 Trabalho em **Escritório de Contabilidade** e na **Nanofy Tecnologia**
 
-- 📚 Atualmente estou estudando **Python/JavaSript/React/TypeScript/TailWindCSS/Next.js**
+- 📚 Estudando **Python/JavaSript/React/TypeScript/TailWindCSS/Next.js**
 
 - 📫 CEO da **Nanofy Tecnologia**
 
-- 💬 Alguma dúvida sobre tecnologia **Tecnologia**?
+- 💬 Alguma dúvida sobre **Tecnologia**?
 
 - ⚡ Conheça um pouco da minha empresa em: **nanofy.com.br**
 
@@ -44,8 +44,8 @@
   <img align="center" alt="VScode" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="Windows" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
   <img align="center" alt="React" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
-  <img align="center" alt="Nextjs" height="40" width="40" src="[https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg](https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg)">
-  <img align="center" alt="TailWindCSS" height="40" width="40" src="[https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg](https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg)">
-  <img align="center" alt="TypeScript" height="40" width="40" src="[https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg](https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg)https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Nextjs" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg">
+  <img align="center" alt="TailWindCSS" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg">
+  <img align="center" alt="TypeScript" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
 
 <br><br>
