@@ -33,5 +33,4 @@ meu nome é Fernando. Sou estudante de Programação e estou me graduando em Eng
 <br>
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=ferpereira36&theme=algolia&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ferpereira36&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com?user=ferpereira36&theme=github-dark-blue&locale=pt_BR&hide_current_streak=true)<br/>
