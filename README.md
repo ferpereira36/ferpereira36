@@ -22,7 +22,7 @@ meu nome é Fernando. Sou estudante de Programação e estou me graduando em Eng
 
 <br>
 
-# 🌐 Socials:
+# 🌐 Social:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ferpereira36) 
 
 <br>
