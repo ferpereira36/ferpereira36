@@ -1,5 +1,5 @@
 # Olá 👋🏼,
-meu nome é Fernando. Sou estudante de Programação e estou me graduando em Engenharia da Computação. Sou apaixonado por tecnologia e adoro transformar ideias em aplicações funcionais. Acredito que a tecnologia é a chave para moldar o futuro, e estou comprometido em estar à frente nessa constante evolução.
+meu nome é Fernando. Sou graduado em Engenharia de Computação e apaixonado por tecnologia. Adoro transformar ideias em aplicações web responsivas e mobile utilizando tecnologias de ponta como React.js, Next.js, TypeScript, React Native e entre outras.
 
 # 🌐 Social:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ferpereira36) 
